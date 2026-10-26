@@ -151,6 +151,15 @@ nav a:hover {
     border: 1px solid rgba(16, 24, 40, 0.05);
 }
 
+.director-avatar {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 16px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 .director-card:hover,
 .value-item:hover,
 .service-card:hover,
